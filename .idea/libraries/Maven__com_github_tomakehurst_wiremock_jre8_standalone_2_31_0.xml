@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.github.tomakehurst:wiremock-jre8-standalone:2.31.0">
+    <CLASSES>
+      <root url="jar://D:/apache-maven-3.8.4/repository/com/github/tomakehurst/wiremock-jre8-standalone/2.31.0/wiremock-jre8-standalone-2.31.0.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://D:/apache-maven-3.8.4/repository/com/github/tomakehurst/wiremock-jre8-standalone/2.31.0/wiremock-jre8-standalone-2.31.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://D:/apache-maven-3.8.4/repository/com/github/tomakehurst/wiremock-jre8-standalone/2.31.0/wiremock-jre8-standalone-2.31.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

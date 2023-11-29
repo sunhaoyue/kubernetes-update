@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true">
+        <processorPath useClasspath="false">
+          <entry name="D:/apache-maven-3.8.4/repository/org/projectlombok/lombok/1.18.26/lombok-1.18.26.jar" />
+        </processorPath>
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="clear-apm-agernt" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
